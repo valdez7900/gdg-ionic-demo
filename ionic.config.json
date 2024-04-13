@@ -1,0 +1,7 @@
+{
+  "name": "gdg-ionic-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
